@@ -6,6 +6,8 @@ import java.util.Set;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
+
+//class to find Number of orphan planets
 public class FindNumberOfOrphanPlanets {
 
 	public int numberOfOrphanPlanets(JSONArray jsonArray) {
