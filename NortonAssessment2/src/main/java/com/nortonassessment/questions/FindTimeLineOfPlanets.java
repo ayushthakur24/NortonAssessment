@@ -12,7 +12,7 @@ import org.json.simple.JSONObject;
 import com.nortonassessment.helper.helper;
 
 
-
+//Class to find and filter the planets according to the Discovery year and JupiterRadii
 public class FindTimeLineOfPlanets {
 
 	public List<String> FindTimeLineOfPlanets(JSONArray jsonArray) {
