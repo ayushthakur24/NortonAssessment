@@ -1,0 +1,21 @@
+Q1. The number of Orphan planets = 2
+Q2. The planet orbitting the hottest star is : V391 Peg b
+In year 1781 we discovered 1 small planets,0 medium planets, and 0 large planets
+In year 1846 we discovered 1 small planets,0 medium planets, and 0 large planets
+In year 1930 we discovered 1 small planets,0 medium planets, and 0 large planets
+In year 1999 we discovered 0 small planets,1 medium planets, and 0 large planets
+In year 2001 we discovered 0 small planets,0 medium planets, and 1 large planets
+In year 2002 we discovered 0 small planets,1 medium planets, and 0 large planets
+In year 2004 we discovered 2 small planets,5 medium planets, and 0 large planets
+In year 2005 we discovered 1 small planets,3 medium planets, and 0 large planets
+In year 2006 we discovered 1 small planets,6 medium planets, and 0 large planets
+In year 2007 we discovered 2 small planets,16 medium planets, and 2 large planets
+In year 2008 we discovered 1 small planets,21 medium planets, and 1 large planets
+In year 2009 we discovered 3 small planets,5 medium planets, and 2 large planets
+In year 2010 we discovered 10 small planets,39 medium planets, and 5 large planets
+In year 2011 we discovered 29 small planets,48 medium planets, and 4 large planets
+In year 2012 we discovered 51 small planets,19 medium planets, and 3 large planets
+In year 2013 we discovered 54 small planets,30 medium planets, and 6 large planets
+In year 2014 we discovered 825 small planets,30 medium planets, and 5 large planets
+In year 2015 we discovered 100 small planets,28 medium planets, and 6 large planets
+In year 2016 we discovered 1257 small planets,26 medium planets, and 10 large planets
