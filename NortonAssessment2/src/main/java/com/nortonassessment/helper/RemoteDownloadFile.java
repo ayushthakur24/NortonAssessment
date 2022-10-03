@@ -17,6 +17,8 @@ public class RemoteDownloadFile {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(is));
 		String line = br.readLine();
+		
+		//downloding the JSON file from the URL to the working directory
 		FileOutputStream fo = new FileOutputStream("C:\\Users\\at382\\eclipse-workspace\\NortonAssessment2\\ExoplanetList.json");
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fo));
 		
