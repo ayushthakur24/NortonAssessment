@@ -9,7 +9,7 @@ import org.json.simple.JSONObject;
 import com.nortonassessment.helper.helper;
 
 
-
+//class to find the planet orbitting the hottest star
 public class FindPlanetOrbittingHottestStar {
 
 	public String planetOrbittingHottesStar(JSONArray jsonArray) {
