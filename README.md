@@ -1,4 +1,4 @@
-# NortonAssessment
+
 Exoplanet Exercise
 
 Hello Team,
